@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "bigdog"
+  },
+  "targets": {
+    "bigdog-b8762": {
+      "hosting": {
+        "bigdog": [
+          "bigdog"
+        ]
+      }
+    }
+  }
+}
